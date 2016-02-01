@@ -1,0 +1,25 @@
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusDesktopReporter\OculusDesktopReporter\bin\Debug\OculusDesktopReporter.exe.config
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusDesktopReporter\OculusDesktopReporter\bin\Debug\OculusDesktopReporter.exe
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusDesktopReporter\OculusDesktopReporter\bin\Debug\OculusDesktopReporter.pdb
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\OculusDesktopReporter.AboutBox.resources
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\OculusDesktopReporter.frm_Main.resources
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\OculusDesktopReporter.OculusSettings.resources
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\OculusDesktopReporter.Properties.Resources.resources
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\OculusDesktopReporter.Settings.resources
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\OculusDesktopReporter.csproj.GenerateResource.Cache
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\OculusDesktopReporter.exe
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\OculusDesktopReporter.pdb
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\bin\Debug\EvergreenDesktopReporter.exe.config
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\bin\Debug\EvergreenDesktopReporter.exe
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\bin\Debug\EvergreenDesktopReporter.pdb
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\bin\Debug\Newtonsoft.Json.dll
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\bin\Debug\Newtonsoft.Json.xml
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\OculusDesktopReporter.csprojResolveAssemblyReference.cache
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\EvergreenDesktopReporter.AboutBox.resources
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\EvergreenDesktopReporter.frm_Main.resources
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\EvergreenDesktopReporter.OculusSettings.resources
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\EvergreenDesktopReporter.Properties.Resources.resources
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\EvergreenDesktopReporter.Settings.resources
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\OculusDesktopReporter.csproj.GenerateResource.Cache
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\EvergreenDesktopReporter.exe
+E:\C# backup\Amaranthine\OculusDesktopReporter\OculusDesktopReporter\obj\Debug\EvergreenDesktopReporter.pdb
